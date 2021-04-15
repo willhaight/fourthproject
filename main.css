@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'antonio';
+  src: url(Antonio-VariableFont_wght.ttf);
+}
+h2 {
+  font-family: 'antonio',sans-serif, arial;
+  font-size: 50px;
+  height:60px;
+  padding-top:200px;
+}
+.first input label {
+  display:block;
+}
+.forms {
+  border:5px solid black;
+  border-radius: 10px;
+  width:300px;
+}
+.first {
+  padding:5px;
+}
+.last {
+  padding:5px;
+}
+.email {
+  padding:5px;
+}
+.submit {
+  padding:5px;
+
+}
+input[type=submit] {
+    width: 250px;  height: 30px;
+}
